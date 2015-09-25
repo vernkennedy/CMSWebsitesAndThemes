@@ -4,23 +4,23 @@
     "project_name" : "Scot Wiggam Campaign Site",    
     "avatar_url" : "scott.png",
     "description" : "https://github.com/vernkennedy/Project-Portfolio-Tracker/blob/master/description.txt",
-    "summary" : "A web portal for tracking information on all projects from a central location. Has reporting features for managerment to evaluate priorities",
-    "code_url" : "https://github.com/vernkennedy/Project-Portfolio-Tracker",
-    "demo_url" : "https://www.youtube.com/watch?v=lJM2oFMoDkM",
-	"frontend_infor" : "Html5,CSS3,JavaScript,jQuery, Google Charts/Google Visualization API",
+    "summary" : "Scottwiggam.com is a WordPress website built for the reelection of ScottWiggam for Wayne County Commissioner in Ohio.",
+    "code_url" : "#",
+    "demo_url" : "http://scottwiggam.com/ ",
+	"frontend_infor" : "Html5,CSS3,JavaScript,jQuery, WordPress CMS",
     "backend_infor" : "Php5,SQL,MySQL",
-    "demotype" : "Video Demo"
+    "demotype" : "Live Demo"
   },
   
   {
     "project_name" : "Project ROTIA Site",    
     "avatar_url" : "ROTIA.png",
 	"description" : "https://github.com/vernkennedy/Database-Google-Map/blob/master/description.txt",
-	"summary" : "An HTML5 web application that plots arbitrary points on a map. Each point has a tooltip where the information about the point is populated from a MySQL database",
+	"summary" : "Project ROTIA site is a WordPress website/theme built for the showcase of Project ROTIA projects. It is a subtheme of the WordPress 2013 theme",
     "code_url" : "https://github.com/vernkennedy/Database-Google-Map",
     "demo_url" : "https://www.youtube.com/watch?v=QAgBDwnvH3I",
-	"frontend_infor" : "Html5,CSS3,JavaScript,Google Maps API",
-    "backend_infor" : "Php5,SQL,MySQL",
+	"frontend_infor" : "Html5,CSS3,JavaScript",
+    "backend_infor" : "Php5,SQL,MySQL, WordPress CMS",
     "demotype" : "Video Demo"
   },
   
@@ -28,11 +28,11 @@
     "project_name" : "Faith and Miracles for all ministries Site",    
     "avatar_url" : "church.png",
 	"description" : "https://github.com/vernkennedy/IS-ScotBoard/blob/master/description.txt",
-	"summary" : "A Rule Based Expert System / web portal for academic planning and exploration of student opportunities at The College of Wooster",
+	"summary" : "This is a Drupal website and theme built for the Faith and Miracles for all ministries church in Malawi. This is an attempt to publicise the church and increase the number of numbers.",
     "code_url" : "https://github.com/vernkennedy/IS-ScotBoard",
     "demo_url" : "https://www.youtube.com/watch?v=lJM2oFMoDkM",
-	"frontend_infor" : "Html5,CSS3,JavaScript,Html5 Drag and Drop API",
-    "backend_infor" : "Php5,SQL,MySQL",
+	"frontend_infor" : "Html5,CSS3,JavaScript",
+    "backend_infor" : "Php5,SQL,MySQL, Drupal CMS",
     "demotype" : "Video Demo"
   }
 ]
