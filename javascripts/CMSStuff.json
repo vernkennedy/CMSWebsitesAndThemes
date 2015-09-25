@@ -2,9 +2,9 @@
 "records": [
   {
     "project_name" : "Scot Wiggam Campaign Site",    
-    "avatar_url" : "ProjectPortfolioTracker.jpg",
-	"description" : "https://github.com/vernkennedy/Project-Portfolio-Tracker/blob/master/description.txt",
-	"summary" : "A web portal for tracking information on all projects from a central location. Has reporting features for managerment to evaluate priorities",
+    "avatar_url" : "scott.png",
+    "description" : "https://github.com/vernkennedy/Project-Portfolio-Tracker/blob/master/description.txt",
+    "summary" : "A web portal for tracking information on all projects from a central location. Has reporting features for managerment to evaluate priorities",
     "code_url" : "https://github.com/vernkennedy/Project-Portfolio-Tracker",
     "demo_url" : "https://www.youtube.com/watch?v=lJM2oFMoDkM",
 	"frontend_infor" : "Html5,CSS3,JavaScript,jQuery, Google Charts/Google Visualization API",
@@ -14,7 +14,7 @@
   
   {
     "project_name" : "Project ROTIA Site",    
-    "avatar_url" : "DatabaseDrivenMaps.jpg",
+    "avatar_url" : "ROTIA.png",
 	"description" : "https://github.com/vernkennedy/Database-Google-Map/blob/master/description.txt",
 	"summary" : "An HTML5 web application that plots arbitrary points on a map. Each point has a tooltip where the information about the point is populated from a MySQL database",
     "code_url" : "https://github.com/vernkennedy/Database-Google-Map",
@@ -26,7 +26,7 @@
   
   {
     "project_name" : "Faith and Miracles for all ministries Site",    
-    "avatar_url" : "ScotBoard.jpg",
+    "avatar_url" : "church.png",
 	"description" : "https://github.com/vernkennedy/IS-ScotBoard/blob/master/description.txt",
 	"summary" : "A Rule Based Expert System / web portal for academic planning and exploration of student opportunities at The College of Wooster",
     "code_url" : "https://github.com/vernkennedy/IS-ScotBoard",
