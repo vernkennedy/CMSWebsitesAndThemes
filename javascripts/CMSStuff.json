@@ -17,8 +17,8 @@
     "avatar_url" : "ROTIA.png",
 	"description" : "https://github.com/vernkennedy/Database-Google-Map/blob/master/description.txt",
 	"summary" : "Project ROTIA site is a WordPress website/theme built for the showcase of Project ROTIA projects. It is a subtheme of the WordPress 2013 theme",
-    "code_url" : "https://github.com/vernkennedy/Database-Google-Map",
-    "demo_url" : "https://www.youtube.com/watch?v=QAgBDwnvH3I",
+    "code_url" : "#",
+    "demo_url" : "https://youtu.be/DqQzZjwwjEo",
 	"frontend_infor" : "Html5,CSS3,JavaScript",
     "backend_infor" : "Php5,SQL,MySQL, WordPress CMS",
     "demotype" : "Video Demo"
@@ -29,8 +29,8 @@
     "avatar_url" : "church.png",
 	"description" : "https://github.com/vernkennedy/IS-ScotBoard/blob/master/description.txt",
 	"summary" : "This is a Drupal website and theme built for the Faith and Miracles for all ministries church in Malawi. This is an attempt to publicise the church and increase the number of numbers.",
-    "code_url" : "https://github.com/vernkennedy/IS-ScotBoard",
-    "demo_url" : "https://www.youtube.com/watch?v=lJM2oFMoDkM",
+    "code_url" : "#",
+    "demo_url" : "https://youtu.be/JfJlqKlPGBE",
 	"frontend_infor" : "Html5,CSS3,JavaScript",
     "backend_infor" : "Php5,SQL,MySQL, Drupal CMS",
     "demotype" : "Video Demo"
